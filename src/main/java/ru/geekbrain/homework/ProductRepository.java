@@ -1,4 +1,3 @@
-/*
 package ru.geekbrain.homework;
 
 import java.util.ArrayList;
@@ -49,4 +48,3 @@ public class ProductRepository {
         return null;
     }
 }
-*/

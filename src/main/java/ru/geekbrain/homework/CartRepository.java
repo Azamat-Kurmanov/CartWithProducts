@@ -1,4 +1,4 @@
-/*package ru.geekbrain.homework;
+package ru.geekbrain.homework;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -61,4 +61,4 @@ public class CartRepository {
             }
         }
     }
-}*/
+}
