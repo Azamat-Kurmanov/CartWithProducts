@@ -1,4 +1,4 @@
-/*package ru.geekbrain.homework;
+package ru.geekbrain.homework;
 
 import java.util.List;
 
@@ -23,4 +23,4 @@ public class Cart implements CartFactory{
     public List<Product> getProductsFromTheCart() {
         return listOfProducts;
     }
-}*/
+}

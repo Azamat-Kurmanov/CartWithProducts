@@ -1,4 +1,3 @@
-/*
 package ru.geekbrain.homework;
 
 public class Product {
@@ -36,4 +35,3 @@ public class Product {
                 ", price=" + price;
     }
 }
-*/
